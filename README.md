@@ -1,13 +1,3 @@
-# Ansible for DevOps Examples
-
-[![CI](https://github.com/geerlingguy/ansible-for-devops/workflows/CI/badge.svg?event=push)](https://github.com/geerlingguy/ansible-for-devops/actions?query=workflow%3ACI) [![Molecule CI](https://github.com/geerlingguy/ansible-for-devops/workflows/Molecule%20CI/badge.svg?event=push)](https://github.com/geerlingguy/ansible-for-devops/actions?query=workflow%3A%22Molecule+CI%22)
-
-This repository contains Ansible examples developed to support different sections of [Ansible for DevOps](https://www.ansiblefordevops.com/), a book on [Ansible](http://www.ansible.com/) by [Jeff Geerling](https://www.jeffgeerling.com/).
-
-Many examples use Vagrant, VirtualBox, and Ansible to boot and configure VMs on your local workstation.
-
-Not all playbooks follow all of Ansible's best practices, as they illustrate particular Ansible features in an instructive manner.
-
 ## Manuscript
 
 The book's manuscript is released under the CC BY-SA license, and is publicly available in a separate repository: [Ansible for DevOps - Manuscript](https://github.com/geerlingguy/ansible-for-devops-manuscript).
@@ -96,16 +86,3 @@ Here is an outline of all the examples contained in this repository, by chapter:
 
 ## License
 
-MIT
-
-## Sponsors
-
-* [TinyPilot](https://tinypilotkvm.com): An open-source, low-cost KVM over IP for managing your servers.
-
-The above sponsor(s) are supporting Jeff Geerling on [GitHub Sponsors](https://github.com/sponsors/geerlingguy). You can sponsor Jeff's work too, to help him continue improving this book and Ansible open source work!
-
-## Buy the Book
-
-[![Ansible for DevOps Cover](https://s3.amazonaws.com/titlepages.leanpub.com/ansible-for-devops/medium)](https://www.ansiblefordevops.com/)
-
-Buy [Ansible for DevOps](https://www.ansiblefordevops.com/) for your e-reader or in paperback format.
